@@ -13,8 +13,7 @@ public class Test {
 
 		System.out.print("hoihouididi");
 
-		System.out.print("hoihouhujbvjkbsdkfjbkcbasr");
-//>>>>>>> branch 'master' of https://github.com/Project49Music/Java-Scrum-1.git
+
 	}
 
 }
