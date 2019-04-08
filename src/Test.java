@@ -9,6 +9,8 @@ public class Test {
 		System.out.print("hi");
 		System.out.print("hoihouhur");
 
+		
+		System.out.print("hoihouhur");
 	}
 
 }
