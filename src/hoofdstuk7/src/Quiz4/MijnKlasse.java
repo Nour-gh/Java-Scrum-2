@@ -1,4 +1,4 @@
-package Quiz4;
+package hoofdstuk7.src.Quiz4;
 
 public class MijnKlasse {
 	
