@@ -6,15 +6,15 @@ public class Test {
 
 		System.out.print("hou");
 
-		System.out.print("hi");
+		System.out.print("hi42");
 		System.out.print("hoihouhur");
 
 		
-<<<<<<< HEAD
+
 		System.out.print("hoihouididi");
-=======
+
 		System.out.print("hoihouhur");
->>>>>>> branch 'master' of https://github.com/Project49Music/Java-Scrum-1.git
+branch 'master' of https://github.com/Project49Music/Java-Scrum-1.git
 	}
 
 }
