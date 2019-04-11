@@ -1,4 +1,4 @@
-package hoofdstuk7.src.Opdracht1;
+package hoofdstuk7.src.OpdrachtH7;
 
 public class MijnKlasseApp {
 
