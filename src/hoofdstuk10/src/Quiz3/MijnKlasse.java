@@ -15,5 +15,5 @@ public class MijnKlasse {
 	    x++;
 	  }	
 }
-
+v
 //de klassenvariabele x word niet beïnvloed.
