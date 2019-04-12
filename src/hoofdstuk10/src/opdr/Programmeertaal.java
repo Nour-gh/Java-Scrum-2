@@ -9,6 +9,7 @@ public class Programmeertaal {
 		aantalTalen ++;
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 	
 	Programmeertaal st1 = new Programmeertaal();
@@ -17,11 +18,14 @@ public class Programmeertaal {
 	Programmeertaal st4 = new Programmeertaal();
 	Programmeertaal st5 = new Programmeertaal();
 	
-	st1.taal = "Java";
-	st2.taal = "C++";
-	st3.taal = "Python";
-	st4.taal = "PHP";
-	st5.taal = "Ruby";
+	String taal = "";
+	taal += "Java ";
+	taal += "C++ ";
+	taal += "Python ";
+	taal += "PHP ";
+	taal += "Ruby";
 	
-}
+	System.out.print(taal);
+	System.out.println(aantalTalen);
+	}
 }

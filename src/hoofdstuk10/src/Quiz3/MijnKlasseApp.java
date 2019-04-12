@@ -2,7 +2,7 @@ package hoofdstuk10.src.Quiz3;
 
 public class MijnKlasseApp {
 
-	  @SuppressWarnings("unused")
+	  @SuppressWarnings({ "unused", "static-access" })
 	public static void main(String[] args)
 	  {  
 	    MijnKlasse mk1 = new MijnKlasse();
