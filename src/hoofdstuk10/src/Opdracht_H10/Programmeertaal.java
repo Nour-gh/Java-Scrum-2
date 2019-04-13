@@ -1,4 +1,4 @@
-package hoofdstuk10.src.opdr;
+package hoofdstuk10.src.Opdracht_H10;
 
 public class Programmeertaal {
 

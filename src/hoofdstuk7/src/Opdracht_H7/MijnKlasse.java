@@ -1,4 +1,4 @@
-package hoofdstuk7.src.OpdrachtH7;
+package hoofdstuk7.src.Opdracht_H7;
 
 public class MijnKlasse {
 
